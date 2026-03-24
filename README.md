@@ -63,8 +63,11 @@ This project uses **YOLOv8 for detection** and **OCR (EasyOCR/PaddleOCR)** for e
 
 ---
 
-## 📸 Project Demo
-(Add screenshots here)
+## 📷 Screenshots
+
+![vehDetection](1.png)
+![Plate](2.png)
+![OCR](3.png)
 
 ---
 
